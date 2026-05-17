@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **plabonjoseph@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://plabon-costa-portfolio.netlify.app/](https://plabon-costa-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://plabon-joseph-costa-portfolio.netlify.app/](https://plabon-joseph-costa-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
